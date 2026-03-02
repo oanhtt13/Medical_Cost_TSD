@@ -11,3 +11,4 @@ Welcome to Medical Costs documentation!
    :caption: Contents:
 
    introduction.rst
+   dataDesign.rst
