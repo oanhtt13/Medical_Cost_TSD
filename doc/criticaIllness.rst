@@ -81,8 +81,14 @@ Module Overview
    * - Module
      - Description
 
-Database
+Database Design
 -----------------------
+
+ER Diagram
+***********************
+
+Table Definition
+***********************
 
 
 Business logic
