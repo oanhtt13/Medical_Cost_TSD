@@ -12,3 +12,4 @@ Welcome to Medical Costs documentation!
 
    introduction.rst
    dataDesign.rst
+   criticalIllness.rst
